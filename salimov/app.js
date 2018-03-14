@@ -1,0 +1,4 @@
+function aClick()
+{
+  alert("Huu");
+}
