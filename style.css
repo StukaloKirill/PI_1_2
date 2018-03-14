@@ -1,0 +1,14 @@
+body {
+	background-color: lightgray;
+}
+
+#Sub {
+	background-color: silver;
+	border-radius: 12px;
+}
+
+form {
+	border: 1px solid black;
+	width: 170px;
+}
+
