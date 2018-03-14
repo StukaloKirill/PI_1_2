@@ -2,6 +2,6 @@
 
 var btn = document.getElementById("Sub");
 
-btn.onclick = function() {
+btn.onsubmit = function() {
 	alert("hello");
 }
