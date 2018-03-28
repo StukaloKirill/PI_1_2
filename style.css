@@ -1,5 +1,16 @@
-body{
-	background-color:#E9DDDD;
+
+body {
+	background-color: lightgray;
+}
+
+#Sub {
+	background-color: silver;
+	border-radius: 12px;
+}
+
+form {
+	border: 1px solid black;
+	width: 170px;
 }
 
 hr {
@@ -20,6 +31,3 @@ input[type="submit"]{
 	padding: 0 10px;
 }
 
-form {
-	text-align: center;
-}
