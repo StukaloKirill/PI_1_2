@@ -1,0 +1,25 @@
+body{
+	background-color:#E9DDDD;
+}
+
+hr {
+	border: none;
+}
+
+input {
+	width: 300px;
+	height: 30px;
+	padding: 0 10px;
+	border: 2px solid crimson;
+	border-radius: 4px;
+	box-shadow: 2px 2px 1px crimson;
+}
+
+input[type="submit"]{
+	background-color: white;
+	padding: 0 10px;
+}
+
+form {
+	text-align: center;
+}
