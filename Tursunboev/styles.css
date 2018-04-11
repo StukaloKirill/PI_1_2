@@ -1,0 +1,32 @@
+
+body {
+	background-color: yellow;
+}
+
+#Sub {
+	background-color: blue;
+	border-radius: 12px;
+}
+
+form {
+	border: 1px solid black;
+	width: 170px;
+}
+
+hr {
+	border: none;
+}
+
+input {
+	width: 300px;
+	height: 30px;
+	padding: 0 10px;
+	border: 2px solid crimson;
+	border-radius: 4px;
+	box-shadow: 2px 2px 1px crimson;
+}
+
+input[type="submit"]{
+	background-color: white;
+	padding: 0 10px;
+}

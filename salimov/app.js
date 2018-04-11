@@ -1,4 +1,0 @@
-function aClick()
-{
-  alert("Huu");
-}
