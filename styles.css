@@ -1,0 +1,22 @@
+body {
+	background: yellow;
+}
+
+#Btn{
+        background: pink;
+        width:100px;
+        text-align:left;
+        box-shadow:2px 1px #888888;
+
+}
+
+h1
+{
+        color:green;
+}
+
+input {
+	width: 200px;
+	height: 20px;
+        border: 1px solid;
+}
