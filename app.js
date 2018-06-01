@@ -1,14 +1,4 @@
-
-"use strict";
-
-var btn = document.getElementById("Sub");
-
-btn.onsubmit = function() {
-	alert("hello");
+function aClick()
+{
+	alert("Mechta");
 }
-
-function output()
-        {
-            alert("Hello!");
-        }
-
